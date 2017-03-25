@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  CH1
-//
-//  Created by Da Li on 3/25/17.
-//  Copyright © 2017 um. All rights reserved.
-//
-
 #include <iostream>
 #include "Sales_item.h"
 using namespace std;
